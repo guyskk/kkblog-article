@@ -83,6 +83,7 @@ Looping
 
 https://github.com/wklken/stackoverflow-py-top-qa
 http://pyzh.readthedocs.org/en/latest/index.html
+http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/
 
 博客
 
