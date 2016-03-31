@@ -1,4 +1,9 @@
-# 用docker部署童年的经典游戏
+---
+title: 用 docker 部署童年的经典游戏
+date: 2015-12-03
+---
+
+
 ```
 git clone https://bitbucket.org/dubuqingfeng/docker-web-game.git
 cd docker-web-game/

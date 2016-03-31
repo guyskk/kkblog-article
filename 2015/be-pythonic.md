@@ -1,4 +1,8 @@
-# Be Pythonic
+---
+title: Be Pythonic
+date: 2015-11-02
+---
+
 
 ## best practice
 
@@ -81,12 +85,12 @@ Looping
 
 ## 相关学习资源
 
-https://github.com/wklken/stackoverflow-py-top-qa
-http://pyzh.readthedocs.org/en/latest/index.html
-http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/
+https://github.com/wklken/stackoverflow-py-top-qa  
+http://pyzh.readthedocs.org/en/latest/index.html  
+http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python
 
 博客
 
-http://www.pythoner.com/
-http://blog.xiayf.cn/
-http://wklken.me/
+http://www.pythoner.com/  
+http://blog.xiayf.cn/  
+http://wklken.me/  

@@ -1,4 +1,8 @@
-# 使用 ftp 在 windows 与 linux 虚拟机之间传输文件
+---
+title: 使用 ftp 在 windows 与 linux 虚拟机之间传输文件
+date: 2015-05-22
+---
+
 
 物理主机为 windows 8.1，虚拟机 VirtualBox，里面装的 ubuntu。
 

@@ -1,7 +1,7 @@
-Tags: python
-
-
-# python2 编码问题
+---
+title: Python2 编码问题
+date: 2015-04-15
+---
 
 
 系统默认编码
